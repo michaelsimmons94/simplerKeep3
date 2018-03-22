@@ -80,7 +80,7 @@
             </v-layout>
       </v-container>
       <v-footer>
-          <a href="https://github.com/michaelsimmons94/poempal2.git">Get the orignial code here!</a>
+          <a href="https://github.com/michaelsimmons94/simplerKeep3.git">Get the orignial code here!</a>
       </v-footer>
   </v-app>
 </template>
